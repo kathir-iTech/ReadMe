@@ -1,4 +1,4 @@
-# 👋 Hello, My name is Kathirvel.
+# 👋 Hello, My name is Kathirvel
 
 🎓 **B.Tech Student in Data Science and Artificial Intelligence** 
 📍 **PSG Institute of Technology and Applied Research, Coimbatore**
