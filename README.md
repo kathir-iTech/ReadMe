@@ -1,47 +1,52 @@
-# 👋 Hello, My name is Kathirvel
+# 👋 Hey! I’m Kathirvel
 
-🎓 **B.Tech Student in Data Science and Artificial Intelligence** 
-📍 **PSG Institute of Technology and Applied Research, Coimbatore**
-
+I’m currently doing my B.Tech in Artificial Intelligence and Data Science at PSG Institute of Technology and Applied Research, Coimbatore.
 
 ---
 
 ## About Me
 
-As a prospective student of AI and data science, I enjoy using technology and data to solve practical issues.
-I'm laying a solid basis in:
+I’m curious about how technology and data can solve real-life problems. I spend most of my time learning new concepts and putting them into practice through small projects and coding challenges.
 
-📌 **Programming in Python**
-📌 **SQL**
-📌 **Data Science Foundations** 
-📌 **Solving Problems** 
-📌 **Communication Skills**
+Right now, I’m building my skills in:
+- Python programming
+- SQL
+- Basic Data Science
+- Problem Solving
+- Communication
 
-I firmly believe in *learning by doing*, so I dedicate time each day to coding, practicing on sites like FreeCodeCamp and HackerRank, and working on small projects.
-
----
-
-## Present Learning Objectives
-
-✔️ Finish the Google Data Analytics Specialization on Coursera 
-✔️ Create mini-projects and post them here 
-✔️ Finish the Python and SQL domains on HackerRank By the second year, begin making contributions to open-source projects.
+I believe in learning by doing — so I practice coding daily on platforms like HackerRank and FreeCodeCamp.
 
 ---
 
-## Languages and Tools 🛠
+## What I’m Working On
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
+- Completing the Google Data Analytics Specialization on Coursera
+- Strengthening my Python and SQL through daily practice
+- Working on small personal projects and sharing them here
+- Exploring open-source contributions in my second year
 
 ---
 
-## 📫 Let's Talk
+## Outside Tech
 
-- 🔗 [LinkedIn](YOUR-LINKEDIN-URL-HERE)
-- 📧 kathir.3447@gmail.com
+When I’m not coding, I enjoy reading about new gadgets, learning different languages, and spending time with friends and family.
+
+---
+
+## Tools I Use
+
+- Python
+- Git
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [Add your link here]
+- Email: kathir.3447@gmail.com
+
+Thanks for stopping by my profile!
 
 <!--
 **kathir-iTech/kathir-iTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
