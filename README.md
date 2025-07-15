@@ -48,7 +48,7 @@ I believe *good ideas grow when we share and build together*.
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](\https://www.linkedin.com/in/kathir-vel-r/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kathir-vel-r/)
 - 📧 kathir.3447@gmail.com
 
 ---
