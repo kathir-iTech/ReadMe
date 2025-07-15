@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m Kathirvel
+# 👋 Hi! I’m Kathirvel
 
 🎓 **B.Tech Artificial Intelligence & Data Science Student**  
 🏫 **PSG Institute of Technology and Applied Research, Coimbatore**
