@@ -42,7 +42,6 @@ Every day, I spend time coding on platforms like leetcode, HackerRank and FreeCo
 - [SQL (Intermediate)](https://www.hackerrank.com/certificates/iframe/69e84843a013)
 - [SQL (Advanced)](https://www.hackerrank.com/certificates/iframe/6c90302c9925)
 
-
 ---
 
 ## ✨ Beyond Coding
@@ -62,9 +61,9 @@ I believe *good ideas grow when we share and build together*.
 ---
 
 ## 📬 Let’s Connect
-
+- 🎯 [LeetCode](https://leetcode.com/u/CaacLUo9cQ/)
 - 🎯 [HackerRank](https://www.hackerrank.com/kathir_3447)
-- 🧮 [FreeCodeCamp](https://www.freecodecamp.org/kathir-iTech)
+- 🎯 [FreeCodeCamp](https://www.freecodecamp.org/kathir-iTech)
 - 📧 kathir.3447@gmail.com
 
 ---
