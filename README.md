@@ -17,7 +17,7 @@ Right now, I’m building my foundation in:
 - 🧩 Problem Solving
 - 🗣️ Communication Skills
 
-Every day, I spend time coding on platforms like HackerRank and FreeCodeCamp, working on small tasks, and exploring new tools.
+Every day, I spend time coding on platforms like leetcode, HackerRank and FreeCodeCamp, working on small tasks, and exploring new tools.
 
 ---
 
