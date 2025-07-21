@@ -30,6 +30,21 @@ Every day, I spend time coding on platforms like HackerRank and FreeCodeCamp, wo
 
 ---
 
+## 📜 Certifications
+
+### 🧮 FreeCodeCamp
+- [Scientific Computing with Python](https://www.freecodecamp.org/certification/kathir-iTech/scientific-computing-with-python-v7)
+
+### 🎓 HackerRank
+- [Python (Basic)](https://www.hackerrank.com/certificates/iframe/9d0fe7b7e12c)
+- [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/iframe/f2dfa9a3e089)
+- [SQL (Basic)](https://www.hackerrank.com/certificates/iframe/f68a7b37efd0)
+- [SQL (Intermediate)](https://www.hackerrank.com/certificates/iframe/69e84843a013)
+- [SQL (Advanced)](https://www.hackerrank.com/certificates/iframe/6c90302c9925)
+
+
+---
+
 ## ✨ Beyond Coding
 
 When I’m not learning tech, you’ll find me reading about gadgets, learning new languages, or catching up with friends and family.  
@@ -48,7 +63,9 @@ I believe *good ideas grow when we share and build together*.
 
 ## 📬 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kathir-vel-r/)
+- 🔗 [GitHub](https://github.com/kathir-iTech)
+- 🎯 [HackerRank](https://www.hackerrank.com/kathir_3447)
+- 🧮 [FreeCodeCamp](https://www.freecodecamp.org/kathir-iTech)
 - 📧 kathir.3447@gmail.com
 
 ---
@@ -57,6 +74,4 @@ Thanks for visiting my GitHub — feel free to check out my projects or connect 
 
 <!--
 **kathir-iTech/kathir-iTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 -->
