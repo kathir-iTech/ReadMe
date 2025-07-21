@@ -63,7 +63,6 @@ I believe *good ideas grow when we share and build together*.
 
 ## 📬 Let’s Connect
 
-- 🔗 [GitHub](https://github.com/kathir-iTech)
 - 🎯 [HackerRank](https://www.hackerrank.com/kathir_3447)
 - 🧮 [FreeCodeCamp](https://www.freecodecamp.org/kathir-iTech)
 - 📧 kathir.3447@gmail.com
